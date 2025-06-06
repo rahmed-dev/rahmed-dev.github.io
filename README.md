@@ -14,9 +14,11 @@ I’ve worked closely with technical teams and end users across departments such
 
 ## Experiences
 ### Havenir Solutions
-> 2 years 2 months
-> ERPNext Functional Consultant | Associate Business Analyst
-> September 2024 - Present (10 months)
+> 
+- 2 years 2 months
+- ERPNext Functional Consultant | Associate Business Analyst
+- September 2024 - Present (10 months)
+> 
 - Currently serving as a Functional Consultant and Associate Business Analyst
 specializing in ERPNext implementations.
 - Leading the functional design of new features by analyzing business needs
