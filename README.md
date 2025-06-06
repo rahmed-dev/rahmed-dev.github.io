@@ -16,6 +16,7 @@ I’ve worked closely with technical teams and end users across departments such
 ### Havenir Solutions
 - **Period:** More than 2 years
 - **Designation:** ERPNext Functional Consultant & Business Analyst
+
 ---
 **Responsibilities:**
 - Currently serving as a Functional Consultant and Associate Business Analyst
