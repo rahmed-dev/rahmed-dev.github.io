@@ -1,4 +1,3 @@
-# Rizwan Ahmed
 Welcome to my personal portfolio! I am a certified ERPNext Functional Consultant with a strong background in business analysis and cross-functional collaboration. With hands-on experience supporting ERPNext implementations and contributing as a module lead/occasional project coordinator, I specialize in translating business requirements into effective ERPNext configurations aligned with organizational needs.
 
 I’ve worked closely with technical teams and end users across departments such as finance, HR, procurement, and operations — helping optimize workflows and improve productivity through ERPNext’s capabilities.
@@ -13,11 +12,11 @@ I’ve worked closely with technical teams and end users across departments such
 - SAP S/4 HANA Financial Accounting
 
 ## Experiences
+
 ### Havenir Solutions
 **Period:** More than 2 years
-
 **Designation:** ERPNext Functional Consultant & Business Analyst
-
+---
 **Responsibilities:**
 - Currently serving as a Functional Consultant and Associate Business Analyst
 specializing in ERPNext implementations.
